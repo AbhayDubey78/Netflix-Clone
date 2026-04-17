@@ -33,11 +33,6 @@ Netflix-Clone/
 │       └── bg.jpg
 ├── favicon.ico
 
----
-
-📸 Screenshots
-
-(Add your project screenshots here)
 
 ---
 
